@@ -11,7 +11,7 @@
     "dataPath": "collector-sample-data/catalogs",
     "defaultDatabase": "sqlite",
     "httpPort": "80",
-    "sqliteDb": "collector-sample-data\\catalogs\\collectorDb.sqlite",
+    "sqliteDb": "collector-sample-data/catalogs/collectorDb.sqlite",
     "certPath": "collector-server/ssl/2_reais.x10host.com.crt",
     "pg": null,
     "httpsPort": "443",

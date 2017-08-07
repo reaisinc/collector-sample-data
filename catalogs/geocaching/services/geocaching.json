@@ -1,1 +1,15 @@
-{"folders": [], "services": [{"url": "http://arcrest.ddns.net/rest/services/geocaching/FeatureServer", "type": "FeatureServer", "name": "geocaching"}, {"type": "MapServer", "name": "geocaching"}], "currentVersion": "10.3.1"}
+{
+    "folders": [],
+    "services": [
+        {
+            "url": "http://collector-reais.rhcloud.com/rest/services/geocaching/FeatureServer",
+            "type": "FeatureServer",
+            "name": "geocaching"
+        },
+        {
+            "type": "MapServer",
+            "name": "geocaching"
+        }
+    ],
+    "currentVersion": "10.3.1"
+}
