@@ -1,1 +1,38 @@
-{"username": "steve", "arcMapVersion": "10.3.1", "pemPath": "c:/docker/src/github.com/traderboy/collector-server/ssl/reais.x10host.com.key.pem", "dataSourceTypes": ["file", "sqlite", "pgsql"], "hostname": "arcrest.ddns.net", "dataPath": "C://docker//src//github.com//traderboy//collector-sample-data/catalogs", "defaultDatabase": "sqlite", "httpPort": "80", "sqliteDb": "C:\\docker\\src\\github.com\\traderboy\\collector-sample-data\\catalogs\\collectorDb.sqlite", "certPath": "c:/docker/src/github.com/traderboy/collector-server/ssl/2_reais.x10host.com.crt", "pg": null, "httpsPort": "443", "projects": {"geocaching": {"layers": {"0": {"itemId": "geocaching_points0", "name": "geocaching_points", "type": "layer", "oidname": "OBJECTID", "globaloidname": "GlobalID", "id": 0, "data": "geocaching_points", "joinField": "REL_GLOBALID"}}, "relationships": {}, "mxd": "C:\\docker\\src\\github.com\\traderboy\\collector-sample-data\\geocaching.mxd", "replica": "C://docker//src//github.com//traderboy//collector-sample-data/catalogs/geocaching/replicas/geocaching.geodatabase", "fgdb": "C:/docker/src/github.com/traderboy/collector-sample-data/geocaching.gdb"}}}
+{
+    "username": "steve",
+    "arcMapVersion": "10.3.1",
+    "pemPath": "ssl/reais.x10host.com.key.pem",
+    "dataSourceTypes": [
+        "file",
+        "sqlite",
+        "pgsql"
+    ],
+    "hostname": "collector-reais.rhcloud.com",
+    "dataPath": "collector-sample-data/catalogs",
+    "defaultDatabase": "sqlite",
+    "httpPort": "80",
+    "sqliteDb": "collector-sample-data\\catalogs\\collectorDb.sqlite",
+    "certPath": "collector-server/ssl/2_reais.x10host.com.crt",
+    "pg": null,
+    "httpsPort": "443",
+    "projects": {
+        "geocaching": {
+            "layers": {
+                "0": {
+                    "itemId": "geocaching_points0",
+                    "name": "geocaching_points",
+                    "type": "layer",
+                    "oidname": "OBJECTID",
+                    "globaloidname": "GlobalID",
+                    "id": 0,
+                    "data": "geocaching_points",
+                    "joinField": "REL_GLOBALID"
+                }
+            },
+            "relationships": {},
+            "mxd": "C:\\docker\\src\\github.com\\traderboy\\collector-sample-data\\geocaching.mxd",
+            "replica": "collector-sample-data/catalogs/geocaching/replicas/geocaching.geodatabase",
+            "fgdb": "C:/docker/src/github.com/traderboy/collector-sample-data/geocaching.gdb"
+        }
+    }
+}
