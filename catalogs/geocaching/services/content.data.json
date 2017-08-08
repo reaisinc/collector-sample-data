@@ -1,1 +1,243 @@
-{"tables": [], "authoringAppVersion": "3.8", "authoringApp": "WebMapViewer", "applicationProperties": {"viewing": {"measure": {"enabled": true}, "routing": {"enabled": true}, "basemapGallery": {"enabled": true}}}, "spatialReference": {"wkid": 102100, "latestWkid": 3857}, "version": "2.2", "operationalLayers": [{"itemId": "geocaching", "opacity": 1.0, "title": "geocaching_points", "url": "http://arcrest.ddns.net/arcgis/rest/services/geocaching/FeatureServer/0", "visibility": true, "capabilities": "Create,Delete,Query,Update,Editing,Sync", "layerType": "ArcGISFeatureLayer", "popupInfo": {"showAttachments": true, "mediaInfo": [], "title": "geocaching_points:  {Name}", "description": null, "fieldInfos": [{"stringFieldOption": "textbox", "isEditable": false, "format": null, "isEditableOnLayer": false, "tooltip": "", "label": "OBJECTID", "visible": true, "fieldName": "OBJECTID"}, {"stringFieldOption": "textbox", "isEditable": true, "format": null, "isEditableOnLayer": true, "tooltip": "", "label": "Name", "visible": true, "fieldName": "Name"}, {"stringFieldOption": "textbox", "isEditable": true, "format": null, "isEditableOnLayer": true, "tooltip": "", "label": "FolderPath", "visible": true, "fieldName": "FolderPath"}, {"stringFieldOption": "textbox", "isEditable": true, "format": {"digitSeparator": true, "places": 0}, "isEditableOnLayer": true, "tooltip": "", "label": "SymbolID", "visible": true, "fieldName": "SymbolID"}, {"stringFieldOption": "textbox", "isEditable": true, "format": null, "isEditableOnLayer": true, "tooltip": "", "label": "AltMode", "visible": true, "fieldName": "AltMode"}, {"stringFieldOption": "textbox", "isEditable": true, "format": {"digitSeparator": true, "places": 2}, "isEditableOnLayer": true, "tooltip": "", "label": "Base", "visible": true, "fieldName": "Base"}, {"stringFieldOption": "textbox", "isEditable": true, "format": null, "isEditableOnLayer": true, "tooltip": "", "label": "Snippet", "visible": true, "fieldName": "Snippet"}, {"stringFieldOption": "textbox", "isEditable": true, "format": null, "isEditableOnLayer": true, "tooltip": "", "label": "PopupInfo", "visible": true, "fieldName": "PopupInfo"}, {"stringFieldOption": "textbox", "isEditable": true, "format": null, "isEditableOnLayer": true, "tooltip": "", "label": "HasLabel", "visible": true, "fieldName": "HasLabel"}, {"stringFieldOption": "textbox", "isEditable": true, "format": {"digitSeparator": true, "places": 0}, "isEditableOnLayer": true, "tooltip": "", "label": "LabelID", "visible": true, "fieldName": "LabelID"}, {"stringFieldOption": "textbox", "isEditable": false, "format": null, "isEditableOnLayer": false, "tooltip": "", "label": "GlobalID", "visible": true, "fieldName": "GlobalID"}, {"stringFieldOption": "textbox", "isEditable": false, "format": null, "isEditableOnLayer": false, "tooltip": "", "label": "created_user", "visible": true, "fieldName": "created_user"}, {"stringFieldOption": "textbox", "isEditable": false, "format": {"dateFormat": "longMonthDayYear"}, "isEditableOnLayer": false, "tooltip": "", "label": "created_date", "visible": true, "fieldName": "created_date"}, {"stringFieldOption": "textbox", "isEditable": false, "format": null, "isEditableOnLayer": false, "tooltip": "", "label": "last_edited_user", "visible": true, "fieldName": "last_edited_user"}, {"stringFieldOption": "textbox", "isEditable": false, "format": {"dateFormat": "longMonthDayYear"}, "isEditableOnLayer": false, "tooltip": "", "label": "last_edited_date", "visible": true, "fieldName": "last_edited_date"}]}, "id": "geocaching_geocaching_points", "layerDefinition": {"drawingInfo": {"labelingInfo": null, "renderer": {"symbol": {"style": "esriSMSCircle", "angle": 0, "color": [0, 112, 255, 100], "yoffset": 0, "type": "esriSMS", "xoffset": 0, "size": 18}, "type": "simple", "description": "", "label": ""}, "transparency": 0}}}], "baseMap": {"baseMapLayers": [{"opacity": 1, "url": "http://services.arcgisonline.com/ArcGIS/rest/services/World_Topo_Map/MapServer", "visibility": true, "id": "defaultBasemap", "layerType": "ArcGISTiledMapServiceLayer"}], "title": "Topographic"}}
+{
+    "tables": [],
+    "authoringAppVersion": "3.8",
+    "authoringApp": "WebMapViewer",
+    "applicationProperties": {
+        "viewing": {
+            "measure": {
+                "enabled": true
+            },
+            "routing": {
+                "enabled": true
+            },
+            "basemapGallery": {
+                "enabled": true
+            }
+        }
+    },
+    "spatialReference": {
+        "wkid": 102100,
+        "latestWkid": 3857
+    },
+    "version": "2.2",
+    "operationalLayers": [
+        {
+            "itemId": "geocaching",
+            "opacity": 1.0,
+            "title": "geocaching_points",
+            "url": "http://collector-reais.rhcloud.com/arcgis/rest/services/geocaching/FeatureServer/0",
+            "visibility": true,
+            "capabilities": "Create,Delete,Query,Update,Editing,Sync",
+            "layerType": "ArcGISFeatureLayer",
+            "popupInfo": {
+                "showAttachments": true,
+                "mediaInfo": [],
+                "title": "geocaching_points:  {Name}",
+                "description": null,
+                "fieldInfos": [
+                    {
+                        "stringFieldOption": "textbox",
+                        "isEditable": false,
+                        "format": null,
+                        "isEditableOnLayer": false,
+                        "tooltip": "",
+                        "label": "OBJECTID",
+                        "visible": true,
+                        "fieldName": "OBJECTID"
+                    },
+                    {
+                        "stringFieldOption": "textbox",
+                        "isEditable": true,
+                        "format": null,
+                        "isEditableOnLayer": true,
+                        "tooltip": "",
+                        "label": "Name",
+                        "visible": true,
+                        "fieldName": "Name"
+                    },
+                    {
+                        "stringFieldOption": "textbox",
+                        "isEditable": true,
+                        "format": null,
+                        "isEditableOnLayer": true,
+                        "tooltip": "",
+                        "label": "FolderPath",
+                        "visible": true,
+                        "fieldName": "FolderPath"
+                    },
+                    {
+                        "stringFieldOption": "textbox",
+                        "isEditable": true,
+                        "format": {
+                            "digitSeparator": true,
+                            "places": 0
+                        },
+                        "isEditableOnLayer": true,
+                        "tooltip": "",
+                        "label": "SymbolID",
+                        "visible": true,
+                        "fieldName": "SymbolID"
+                    },
+                    {
+                        "stringFieldOption": "textbox",
+                        "isEditable": true,
+                        "format": null,
+                        "isEditableOnLayer": true,
+                        "tooltip": "",
+                        "label": "AltMode",
+                        "visible": true,
+                        "fieldName": "AltMode"
+                    },
+                    {
+                        "stringFieldOption": "textbox",
+                        "isEditable": true,
+                        "format": {
+                            "digitSeparator": true,
+                            "places": 2
+                        },
+                        "isEditableOnLayer": true,
+                        "tooltip": "",
+                        "label": "Base",
+                        "visible": true,
+                        "fieldName": "Base"
+                    },
+                    {
+                        "stringFieldOption": "textbox",
+                        "isEditable": true,
+                        "format": null,
+                        "isEditableOnLayer": true,
+                        "tooltip": "",
+                        "label": "Snippet",
+                        "visible": true,
+                        "fieldName": "Snippet"
+                    },
+                    {
+                        "stringFieldOption": "textbox",
+                        "isEditable": true,
+                        "format": null,
+                        "isEditableOnLayer": true,
+                        "tooltip": "",
+                        "label": "PopupInfo",
+                        "visible": true,
+                        "fieldName": "PopupInfo"
+                    },
+                    {
+                        "stringFieldOption": "textbox",
+                        "isEditable": true,
+                        "format": null,
+                        "isEditableOnLayer": true,
+                        "tooltip": "",
+                        "label": "HasLabel",
+                        "visible": true,
+                        "fieldName": "HasLabel"
+                    },
+                    {
+                        "stringFieldOption": "textbox",
+                        "isEditable": true,
+                        "format": {
+                            "digitSeparator": true,
+                            "places": 0
+                        },
+                        "isEditableOnLayer": true,
+                        "tooltip": "",
+                        "label": "LabelID",
+                        "visible": true,
+                        "fieldName": "LabelID"
+                    },
+                    {
+                        "stringFieldOption": "textbox",
+                        "isEditable": false,
+                        "format": null,
+                        "isEditableOnLayer": false,
+                        "tooltip": "",
+                        "label": "GlobalID",
+                        "visible": true,
+                        "fieldName": "GlobalID"
+                    },
+                    {
+                        "stringFieldOption": "textbox",
+                        "isEditable": false,
+                        "format": null,
+                        "isEditableOnLayer": false,
+                        "tooltip": "",
+                        "label": "created_user",
+                        "visible": true,
+                        "fieldName": "created_user"
+                    },
+                    {
+                        "stringFieldOption": "textbox",
+                        "isEditable": false,
+                        "format": {
+                            "dateFormat": "longMonthDayYear"
+                        },
+                        "isEditableOnLayer": false,
+                        "tooltip": "",
+                        "label": "created_date",
+                        "visible": true,
+                        "fieldName": "created_date"
+                    },
+                    {
+                        "stringFieldOption": "textbox",
+                        "isEditable": false,
+                        "format": null,
+                        "isEditableOnLayer": false,
+                        "tooltip": "",
+                        "label": "last_edited_user",
+                        "visible": true,
+                        "fieldName": "last_edited_user"
+                    },
+                    {
+                        "stringFieldOption": "textbox",
+                        "isEditable": false,
+                        "format": {
+                            "dateFormat": "longMonthDayYear"
+                        },
+                        "isEditableOnLayer": false,
+                        "tooltip": "",
+                        "label": "last_edited_date",
+                        "visible": true,
+                        "fieldName": "last_edited_date"
+                    }
+                ]
+            },
+            "id": "geocaching_geocaching_points",
+            "layerDefinition": {
+                "drawingInfo": {
+                    "labelingInfo": null,
+                    "renderer": {
+                        "symbol": {
+                            "style": "esriSMSCircle",
+                            "angle": 0,
+                            "color": [
+                                0,
+                                112,
+                                255,
+                                100
+                            ],
+                            "yoffset": 0,
+                            "type": "esriSMS",
+                            "xoffset": 0,
+                            "size": 18
+                        },
+                        "type": "simple",
+                        "description": "",
+                        "label": ""
+                    },
+                    "transparency": 0
+                }
+            }
+        }
+    ],
+    "baseMap": {
+        "baseMapLayers": [
+            {
+                "opacity": 1,
+                "url": "http://services.arcgisonline.com/ArcGIS/rest/services/World_Topo_Map/MapServer",
+                "visibility": true,
+                "id": "defaultBasemap",
+                "layerType": "ArcGISTiledMapServiceLayer"
+            }
+        ],
+        "title": "Topographic"
+    }
+}
