@@ -8,11 +8,11 @@
         "pgsql"
     ],
     "hostname": "collector-reais.rhcloud.com",
-    "dataPath": "collector-sample-data/catalogs",
-    "defaultDatabase": "sqlite",
+    "dataPath": "/var/lib/openshift/5986638b2d52710c11000095/app-root/repo/collector-sample-data/catalogs",
+    "defaultDatabase": "file",
     "httpPort": "80",
-    "sqliteDb": "collector-sample-data/catalogs/collectorDb.sqlite",
-    "certPath": "collector-server/ssl/2_reais.x10host.com.crt",
+    "sqliteDb": "/var/lib/openshift/5986638b2d52710c11000095/app-root/repo/collector-sample-data/catalogs/collectorDb.sqlite",
+    "certPath": "/var/lib/openshift/5986638b2d52710c11000095/app-root/repo/collector-server/ssl/2_reais.x10host.com.crt",
     "pg": null,
     "httpsPort": "443",
     "projects": {
@@ -31,7 +31,7 @@
             },
             "relationships": {},
             "mxd": "C:\\docker\\src\\github.com\\traderboy\\collector-sample-data\\geocaching.mxd",
-            "replica": "collector-sample-data/catalogs/geocaching/replicas/geocaching.geodatabase",
+            "replica": "/var/lib/openshift/5986638b2d52710c11000095/app-root/repo/collector-sample-data/catalogs/geocaching/replicas/geocaching.geodatabase",
             "fgdb": "C:/docker/src/github.com/traderboy/collector-sample-data/geocaching.gdb"
         }
     }
