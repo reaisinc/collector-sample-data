@@ -1,1 +1,0 @@
-{"folders": [], "services": [{"url": "http://collector-reais.rhcloud.com/rest/services/bristowward/FeatureServer", "type": "FeatureServer", "name": "bristowward"}, {"type": "MapServer", "name": "bristowward"}], "currentVersion": "10.3.1"}
