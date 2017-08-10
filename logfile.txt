@@ -144,3 +144,156 @@
 2017-08-09 06:47:02,584 - __main__ - INFO - Exporting layer to shapefile: geocaching_points
 2017-08-09 06:47:03,454 - __main__ - INFO - Finished
 2017-08-09 06:47:03,454 - __main__ - INFO - Finished
+2017-08-10 16:42:41,375 - __main__ - INFO - ****************************************************************
+2017-08-10 16:42:41,375 - __main__ - INFO - ****************************************************************
+2017-08-10 16:42:41,375 - __main__ - INFO - ****************************************************************
+2017-08-10 16:42:41,377 - __main__ - INFO - Parameters
+2017-08-10 16:42:41,377 - __main__ - INFO - Parameters
+2017-08-10 16:42:41,377 - __main__ - INFO - Parameters
+2017-08-10 16:42:41,378 - __main__ - INFO - Server name: collector-reais.rhcloud.com
+2017-08-10 16:42:41,378 - __main__ - INFO - Server name: collector-reais.rhcloud.com
+2017-08-10 16:42:41,378 - __main__ - INFO - Server name: collector-reais.rhcloud.com
+2017-08-10 16:42:41,385 - __main__ - INFO - User name: shale
+2017-08-10 16:42:41,385 - __main__ - INFO - User name: shale
+2017-08-10 16:42:41,385 - __main__ - INFO - User name: shale
+2017-08-10 16:42:41,385 - __main__ - INFO - MXD Path: D:\workspace\go\src\github.com\traderboy\collector-sample-data\geocaching.mxd
+2017-08-10 16:42:41,385 - __main__ - INFO - MXD Path: D:\workspace\go\src\github.com\traderboy\collector-sample-data\geocaching.mxd
+2017-08-10 16:42:41,385 - __main__ - INFO - MXD Path: D:\workspace\go\src\github.com\traderboy\collector-sample-data\geocaching.mxd
+2017-08-10 16:42:41,385 - __main__ - INFO - Default data source: sqlite
+2017-08-10 16:42:41,385 - __main__ - INFO - Default data source: sqlite
+2017-08-10 16:42:41,385 - __main__ - INFO - Default data source: sqlite
+2017-08-10 16:42:41,385 - __main__ - INFO - Destination path: D:\workspace\go\src\github.com\traderboy\collector-sample-data
+2017-08-10 16:42:41,385 - __main__ - INFO - Destination path: D:\workspace\go\src\github.com\traderboy\collector-sample-data
+2017-08-10 16:42:41,385 - __main__ - INFO - Destination path: D:\workspace\go\src\github.com\traderboy\collector-sample-data
+2017-08-10 16:42:41,385 - __main__ - INFO - Sqlite path: catalogs\collectorDb.sqlite
+2017-08-10 16:42:41,385 - __main__ - INFO - Sqlite path: catalogs\collectorDb.sqlite
+2017-08-10 16:42:41,385 - __main__ - INFO - Sqlite path: catalogs\collectorDb.sqlite
+2017-08-10 16:42:41,385 - __main__ - INFO - Spatialite path: D:\workspace\go\src\github.com\traderboy\arcrestgo\spatialite\spatialite.exe
+2017-08-10 16:42:41,385 - __main__ - INFO - Spatialite path: D:\workspace\go\src\github.com\traderboy\arcrestgo\spatialite\spatialite.exe
+2017-08-10 16:42:41,385 - __main__ - INFO - Spatialite path: D:\workspace\go\src\github.com\traderboy\arcrestgo\spatialite\spatialite.exe
+2017-08-10 16:42:41,387 - __main__ - INFO - ogr2ogr path: D:\gdal\bin\gdal\apps\ogr2ogr.exe
+2017-08-10 16:42:41,387 - __main__ - INFO - ogr2ogr path: D:\gdal\bin\gdal\apps\ogr2ogr.exe
+2017-08-10 16:42:41,387 - __main__ - INFO - ogr2ogr path: D:\gdal\bin\gdal\apps\ogr2ogr.exe
+2017-08-10 16:42:41,387 - __main__ - INFO - ogrinfo path: D:\gdal\bin\gdal\apps\ogrinfo.exe
+2017-08-10 16:42:41,387 - __main__ - INFO - ogrinfo path: D:\gdal\bin\gdal\apps\ogrinfo.exe
+2017-08-10 16:42:41,387 - __main__ - INFO - ogrinfo path: D:\gdal\bin\gdal\apps\ogrinfo.exe
+2017-08-10 16:42:41,387 - __main__ - INFO - gdal-data path: D:\gdal\bin\gdal-data
+2017-08-10 16:42:41,387 - __main__ - INFO - gdal-data path: D:\gdal\bin\gdal-data
+2017-08-10 16:42:41,387 - __main__ - INFO - gdal-data path: D:\gdal\bin\gdal-data
+2017-08-10 16:42:41,387 - __main__ - INFO - cert path: D:\workspace\go\src\github.com\traderboy\arcrestgo\ssl\2_reais.x10host.com.crt
+2017-08-10 16:42:41,387 - __main__ - INFO - cert path: D:\workspace\go\src\github.com\traderboy\arcrestgo\ssl\2_reais.x10host.com.crt
+2017-08-10 16:42:41,387 - __main__ - INFO - cert path: D:\workspace\go\src\github.com\traderboy\arcrestgo\ssl\2_reais.x10host.com.crt
+2017-08-10 16:42:41,387 - __main__ - INFO - pem path: D:\workspace\go\src\github.com\traderboy\arcrestgo\ssl\reais.x10host.com.key.pem
+2017-08-10 16:42:41,387 - __main__ - INFO - pem path: D:\workspace\go\src\github.com\traderboy\arcrestgo\ssl\reais.x10host.com.key.pem
+2017-08-10 16:42:41,387 - __main__ - INFO - pem path: D:\workspace\go\src\github.com\traderboy\arcrestgo\ssl\reais.x10host.com.key.pem
+2017-08-10 16:42:41,388 - __main__ - INFO - ****************************************************************
+2017-08-10 16:42:41,388 - __main__ - INFO - ****************************************************************
+2017-08-10 16:42:41,388 - __main__ - INFO - ****************************************************************
+2017-08-10 16:42:41,388 - __main__ - INFO - Settings
+2017-08-10 16:42:41,388 - __main__ - INFO - Settings
+2017-08-10 16:42:41,388 - __main__ - INFO - Settings
+2017-08-10 16:42:41,388 - __main__ - INFO - Exporting dataframe: Geocaching
+2017-08-10 16:42:41,388 - __main__ - INFO - Exporting dataframe: Geocaching
+2017-08-10 16:42:41,388 - __main__ - INFO - Exporting dataframe: Geocaching
+2017-08-10 16:42:41,397 - __main__ - INFO - Removing D://workspace//go//src//github.com//traderboy//collector-sample-data/catalogs/geocaching directory
+2017-08-10 16:42:41,397 - __main__ - INFO - Removing D://workspace//go//src//github.com//traderboy//collector-sample-data/catalogs/geocaching directory
+2017-08-10 16:42:41,397 - __main__ - INFO - Removing D://workspace//go//src//github.com//traderboy//collector-sample-data/catalogs/geocaching directory
+2017-08-10 16:42:41,401 - __main__ - INFO - Services path: D://workspace//go//src//github.com//traderboy//collector-sample-data/catalogs/geocaching/services
+2017-08-10 16:42:41,401 - __main__ - INFO - Services path: D://workspace//go//src//github.com//traderboy//collector-sample-data/catalogs/geocaching/services
+2017-08-10 16:42:41,401 - __main__ - INFO - Services path: D://workspace//go//src//github.com//traderboy//collector-sample-data/catalogs/geocaching/services
+2017-08-10 16:42:41,403 - __main__ - INFO - Shapefile path: D://workspace//go//src//github.com//traderboy//collector-sample-data/catalogs/geocaching/shapefiles
+2017-08-10 16:42:41,403 - __main__ - INFO - Shapefile path: D://workspace//go//src//github.com//traderboy//collector-sample-data/catalogs/geocaching/shapefiles
+2017-08-10 16:42:41,403 - __main__ - INFO - Shapefile path: D://workspace//go//src//github.com//traderboy//collector-sample-data/catalogs/geocaching/shapefiles
+2017-08-10 16:42:41,403 - __main__ - INFO - Replica path: D://workspace//go//src//github.com//traderboy//collector-sample-data/catalogs/geocaching/replicas
+2017-08-10 16:42:41,403 - __main__ - INFO - Replica path: D://workspace//go//src//github.com//traderboy//collector-sample-data/catalogs/geocaching/replicas
+2017-08-10 16:42:41,403 - __main__ - INFO - Replica path: D://workspace//go//src//github.com//traderboy//collector-sample-data/catalogs/geocaching/replicas
+2017-08-10 16:42:41,404 - __main__ - INFO - Mapfile path: D://workspace//go//src//github.com//traderboy//collector-sample-data/catalogs/geocaching/mapfiles
+2017-08-10 16:42:41,404 - __main__ - INFO - Mapfile path: D://workspace//go//src//github.com//traderboy//collector-sample-data/catalogs/geocaching/mapfiles
+2017-08-10 16:42:41,404 - __main__ - INFO - Mapfile path: D://workspace//go//src//github.com//traderboy//collector-sample-data/catalogs/geocaching/mapfiles
+2017-08-10 16:42:41,404 - __main__ - INFO - ****************************************************************
+2017-08-10 16:42:41,404 - __main__ - INFO - ****************************************************************
+2017-08-10 16:42:41,404 - __main__ - INFO - ****************************************************************
+2017-08-10 16:42:41,404 - __main__ - INFO - Log output
+2017-08-10 16:42:41,404 - __main__ - INFO - Log output
+2017-08-10 16:42:41,404 - __main__ - INFO - Log output
+2017-08-10 16:42:42,486 - __main__ - INFO - Opening: geocaching/geocaching.xml
+2017-08-10 16:42:42,486 - __main__ - INFO - Opening: geocaching/geocaching.xml
+2017-08-10 16:42:42,486 - __main__ - INFO - Opening: geocaching/geocaching.xml
+2017-08-10 16:42:42,499 - __main__ - INFO - Opening: geocaching/geocaching_points.xml
+2017-08-10 16:42:42,499 - __main__ - INFO - Opening: geocaching/geocaching_points.xml
+2017-08-10 16:42:42,499 - __main__ - INFO - Opening: geocaching/geocaching_points.xml
+2017-08-10 16:42:42,503 - __main__ - INFO - Loading JSON template: D://workspace//go//src//github.com//traderboy//collector-sample-data/catalogs/config.json
+2017-08-10 16:42:42,503 - __main__ - INFO - Loading JSON template: D://workspace//go//src//github.com//traderboy//collector-sample-data/catalogs/config.json
+2017-08-10 16:42:42,503 - __main__ - INFO - Loading JSON template: D://workspace//go//src//github.com//traderboy//collector-sample-data/catalogs/config.json
+2017-08-10 16:42:42,752 - __main__ - INFO - Loading JSON template: D://workspace//go//src//github.com//traderboy//collector-sample-data/catalogs/portals.self.json
+2017-08-10 16:42:42,752 - __main__ - INFO - Loading JSON template: D://workspace//go//src//github.com//traderboy//collector-sample-data/catalogs/portals.self.json
+2017-08-10 16:42:42,752 - __main__ - INFO - Loading JSON template: D://workspace//go//src//github.com//traderboy//collector-sample-data/catalogs/portals.self.json
+2017-08-10 16:42:42,934 - __main__ - INFO - Loading JSON template: D://workspace//go//src//github.com//traderboy//collector-sample-data/catalogs/community.users.json
+2017-08-10 16:42:42,934 - __main__ - INFO - Loading JSON template: D://workspace//go//src//github.com//traderboy//collector-sample-data/catalogs/community.users.json
+2017-08-10 16:42:42,934 - __main__ - INFO - Loading JSON template: D://workspace//go//src//github.com//traderboy//collector-sample-data/catalogs/community.users.json
+2017-08-10 16:42:43,119 - __main__ - INFO - Loading JSON template: D:/workspace/go/src/github.com/traderboy/collector-tools/templates/content.users.json
+2017-08-10 16:42:43,119 - __main__ - INFO - Loading JSON template: D:/workspace/go/src/github.com/traderboy/collector-tools/templates/content.users.json
+2017-08-10 16:42:43,119 - __main__ - INFO - Loading JSON template: D:/workspace/go/src/github.com/traderboy/collector-tools/templates/content.users.json
+2017-08-10 16:42:43,283 - __main__ - INFO - Loading JSON template: D://workspace//go//src//github.com//traderboy//collector-sample-data/catalogs/search.json
+2017-08-10 16:42:43,283 - __main__ - INFO - Loading JSON template: D://workspace//go//src//github.com//traderboy//collector-sample-data/catalogs/search.json
+2017-08-10 16:42:43,283 - __main__ - INFO - Loading JSON template: D://workspace//go//src//github.com//traderboy//collector-sample-data/catalogs/search.json
+2017-08-10 16:42:44,171 - __main__ - INFO - Loading JSON template: D:/workspace/go/src/github.com/traderboy/collector-tools/templates/community.groups.json
+2017-08-10 16:42:44,171 - __main__ - INFO - Loading JSON template: D:/workspace/go/src/github.com/traderboy/collector-tools/templates/community.groups.json
+2017-08-10 16:42:44,171 - __main__ - INFO - Loading JSON template: D:/workspace/go/src/github.com/traderboy/collector-tools/templates/community.groups.json
+2017-08-10 16:42:44,328 - __main__ - INFO - Loading JSON template: D://workspace//go//src//github.com//traderboy//collector-sample-data/catalogs/FeatureServer.json
+2017-08-10 16:42:44,328 - __main__ - INFO - Loading JSON template: D://workspace//go//src//github.com//traderboy//collector-sample-data/catalogs/FeatureServer.json
+2017-08-10 16:42:44,328 - __main__ - INFO - Loading JSON template: D://workspace//go//src//github.com//traderboy//collector-sample-data/catalogs/FeatureServer.json
+2017-08-10 16:42:44,494 - __main__ - INFO - Exporting layer: geocaching_points
+2017-08-10 16:42:44,494 - __main__ - INFO - Exporting layer: geocaching_points
+2017-08-10 16:42:44,494 - __main__ - INFO - Exporting layer: geocaching_points
+2017-08-10 16:42:44,710 - __main__ - INFO - Finding relationships
+2017-08-10 16:42:44,710 - __main__ - INFO - Finding relationships
+2017-08-10 16:42:44,710 - __main__ - INFO - Finding relationships
+2017-08-10 16:42:45,213 - __main__ - INFO - Loading JSON template: D:/workspace/go/src/github.com/traderboy/collector-tools/templates/content.items.data.json
+2017-08-10 16:42:45,213 - __main__ - INFO - Loading JSON template: D:/workspace/go/src/github.com/traderboy/collector-tools/templates/content.items.data.json
+2017-08-10 16:42:45,213 - __main__ - INFO - Loading JSON template: D:/workspace/go/src/github.com/traderboy/collector-tools/templates/content.items.data.json
+2017-08-10 16:42:46,321 - __main__ - INFO - Loading JSON template: D:/workspace/go/src/github.com/traderboy/collector-tools/templates/content.items.json
+2017-08-10 16:42:46,321 - __main__ - INFO - Loading JSON template: D:/workspace/go/src/github.com/traderboy/collector-tools/templates/content.items.json
+2017-08-10 16:42:46,321 - __main__ - INFO - Loading JSON template: D:/workspace/go/src/github.com/traderboy/collector-tools/templates/content.items.json
+2017-08-10 16:42:46,515 - __main__ - INFO - Loading JSON template: D:/workspace/go/src/github.com/traderboy/collector-tools/templates/name.FeatureServer.json
+2017-08-10 16:42:46,515 - __main__ - INFO - Loading JSON template: D:/workspace/go/src/github.com/traderboy/collector-tools/templates/name.FeatureServer.json
+2017-08-10 16:42:46,515 - __main__ - INFO - Loading JSON template: D:/workspace/go/src/github.com/traderboy/collector-tools/templates/name.FeatureServer.json
+2017-08-10 16:42:46,687 - __main__ - INFO - Loading JSON template: D:/workspace/go/src/github.com/traderboy/collector-tools/templates/name.MapServer.json
+2017-08-10 16:42:46,687 - __main__ - INFO - Loading JSON template: D:/workspace/go/src/github.com/traderboy/collector-tools/templates/name.MapServer.json
+2017-08-10 16:42:46,687 - __main__ - INFO - Loading JSON template: D:/workspace/go/src/github.com/traderboy/collector-tools/templates/name.MapServer.json
+2017-08-10 16:42:46,865 - __main__ - INFO - Loading JSON template: D:/workspace/go/src/github.com/traderboy/collector-tools/templates/GDB_ServiceItems.json
+2017-08-10 16:42:46,865 - __main__ - INFO - Loading JSON template: D:/workspace/go/src/github.com/traderboy/collector-tools/templates/GDB_ServiceItems.json
+2017-08-10 16:42:46,865 - __main__ - INFO - Loading JSON template: D:/workspace/go/src/github.com/traderboy/collector-tools/templates/GDB_ServiceItems.json
+2017-08-10 16:43:07,773 - __main__ - INFO - Renamed D://workspace//go//src//github.com//traderboy//collector-sample-data/catalogs/geocaching/replicas/geocaching/data/geocaching.geodatabase to D://workspace//go//src//github.com//traderboy//collector-sample-data/catalogs/geocaching/replicas/geocaching.geodatabase
+2017-08-10 16:43:07,773 - __main__ - INFO - Renamed D://workspace//go//src//github.com//traderboy//collector-sample-data/catalogs/geocaching/replicas/geocaching/data/geocaching.geodatabase to D://workspace//go//src//github.com//traderboy//collector-sample-data/catalogs/geocaching/replicas/geocaching.geodatabase
+2017-08-10 16:43:07,773 - __main__ - INFO - Renamed D://workspace//go//src//github.com//traderboy//collector-sample-data/catalogs/geocaching/replicas/geocaching/data/geocaching.geodatabase to D://workspace//go//src//github.com//traderboy//collector-sample-data/catalogs/geocaching/replicas/geocaching.geodatabase
+2017-08-10 16:43:07,967 - __main__ - INFO - Found attachment table: geocaching_points__ATTACH
+2017-08-10 16:43:07,967 - __main__ - INFO - Found attachment table: geocaching_points__ATTACH
+2017-08-10 16:43:07,967 - __main__ - INFO - Found attachment table: geocaching_points__ATTACH
+2017-08-10 16:43:17,138 - __main__ - INFO - Loading layer: geocaching_points: geocaching_points
+2017-08-10 16:43:17,138 - __main__ - INFO - Loading layer: geocaching_points: geocaching_points
+2017-08-10 16:43:17,138 - __main__ - INFO - Loading layer: geocaching_points: geocaching_points
+2017-08-10 16:43:17,138 - __main__ - INFO - Loading JSON template: D:/workspace/go/src/github.com/traderboy/collector-tools/templates/name.FeatureServer.id.json
+2017-08-10 16:43:17,138 - __main__ - INFO - Loading JSON template: D:/workspace/go/src/github.com/traderboy/collector-tools/templates/name.FeatureServer.id.json
+2017-08-10 16:43:17,138 - __main__ - INFO - Loading JSON template: D:/workspace/go/src/github.com/traderboy/collector-tools/templates/name.FeatureServer.id.json
+2017-08-10 16:43:17,444 - __main__ - INFO - Loading JSON template: D:/workspace/go/src/github.com/traderboy/collector-tools/templates/name.MapServer.id.json
+2017-08-10 16:43:17,444 - __main__ - INFO - Loading JSON template: D:/workspace/go/src/github.com/traderboy/collector-tools/templates/name.MapServer.id.json
+2017-08-10 16:43:17,444 - __main__ - INFO - Loading JSON template: D:/workspace/go/src/github.com/traderboy/collector-tools/templates/name.MapServer.id.json
+2017-08-10 16:43:17,615 - __main__ - INFO - Loading JSON template: D:/workspace/go/src/github.com/traderboy/collector-tools/templates/name.FeatureServer.id.json
+2017-08-10 16:43:17,615 - __main__ - INFO - Loading JSON template: D:/workspace/go/src/github.com/traderboy/collector-tools/templates/name.FeatureServer.id.json
+2017-08-10 16:43:17,615 - __main__ - INFO - Loading JSON template: D:/workspace/go/src/github.com/traderboy/collector-tools/templates/name.FeatureServer.id.json
+2017-08-10 16:43:37,619 - __main__ - INFO - Saved replica: D://workspace//go//src//github.com//traderboy//collector-sample-data/catalogs/geocaching/replicas/geocaching_points
+2017-08-10 16:43:37,619 - __main__ - INFO - Saved replica: D://workspace//go//src//github.com//traderboy//collector-sample-data/catalogs/geocaching/replicas/geocaching_points
+2017-08-10 16:43:37,619 - __main__ - INFO - Saved replica: D://workspace//go//src//github.com//traderboy//collector-sample-data/catalogs/geocaching/replicas/geocaching_points
+2017-08-10 16:43:37,622 - __main__ - INFO - Renamed D://workspace//go//src//github.com//traderboy//collector-sample-data/catalogs/geocaching/replicas/geocaching_points/data/geocaching.geodatabase to D://workspace//go//src//github.com//traderboy//collector-sample-data/catalogs/geocaching/replicas/geocaching_points.geodatabase
+2017-08-10 16:43:37,622 - __main__ - INFO - Renamed D://workspace//go//src//github.com//traderboy//collector-sample-data/catalogs/geocaching/replicas/geocaching_points/data/geocaching.geodatabase to D://workspace//go//src//github.com//traderboy//collector-sample-data/catalogs/geocaching/replicas/geocaching_points.geodatabase
+2017-08-10 16:43:37,622 - __main__ - INFO - Renamed D://workspace//go//src//github.com//traderboy//collector-sample-data/catalogs/geocaching/replicas/geocaching_points/data/geocaching.geodatabase to D://workspace//go//src//github.com//traderboy//collector-sample-data/catalogs/geocaching/replicas/geocaching_points.geodatabase
+2017-08-10 16:43:39,130 - __main__ - INFO - Saving layer geocaching_points(0) to JSON
+2017-08-10 16:43:39,130 - __main__ - INFO - Saving layer geocaching_points(0) to JSON
+2017-08-10 16:43:39,130 - __main__ - INFO - Saving layer geocaching_points(0) to JSON
+2017-08-10 16:43:39,723 - __main__ - INFO - Exporting layer to shapefile: geocaching_points
+2017-08-10 16:43:39,723 - __main__ - INFO - Exporting layer to shapefile: geocaching_points
+2017-08-10 16:43:39,723 - __main__ - INFO - Exporting layer to shapefile: geocaching_points
+2017-08-10 16:43:40,476 - __main__ - INFO - Finished
+2017-08-10 16:43:40,476 - __main__ - INFO - Finished
+2017-08-10 16:43:40,476 - __main__ - INFO - Finished
